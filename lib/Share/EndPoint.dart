@@ -1,0 +1,9 @@
+const LoginURL='login';
+const RegisterURL='register';
+const homeURL='home';
+const categoryURL='categories';
+const profileURL='profile';
+const favoriteURL='favorites';
+const updateProfileURL='update-profile';
+const logoutURL='logout';
+const searchURL='products/search';
